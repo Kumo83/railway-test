@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>鉄道分析　テスト</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #f5f7fa;
+      color: #263445;
+    }
+    h1 {
+      color: #164477;
+    }
+    img {
+      width: 100%;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>鉄道分析ノート</h1>
+
+  <img src="train.jpg" alt="鉄道の写真">
+
+  <p>
+    テストー　　　　　　鉄道について
+    データや写真を使って分析・紹介します。
+  </p>
+
+</body>
+</html>
