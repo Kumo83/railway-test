@@ -27,7 +27,7 @@
 
   <h1>鉄道分析ノート</h1>
 
-  <img src="test.png" alt="鉄道の写真">
+  <img src="./test.png" alt="鉄道の写真">
 
   <p>
     テストー　　　　　　鉄道について
